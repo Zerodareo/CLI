@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVX1KLT4frOT5DcXIQYKr1AmF7supLB213ewh56RyREcLEaGhHrU3vn6VWc98z4gsLwpikA7j9YsVPerHIXzsA==",
+  "success": false,
+  "projectFilePath": "D:\\Tentative\\Project C#\\microsoft.botsay\\microsoft.botsay.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/Talentsoft'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/ThirdParty'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/NuGet%20Gallery'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Newtonsoft.Json' from remote source 'http://srv-rd-packages.talentsoft.com/nuget/NuGet%20Gallery/FindPackagesById()?id='Newtonsoft.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "Newtonsoft.Json"
+    }
+  ]
+}

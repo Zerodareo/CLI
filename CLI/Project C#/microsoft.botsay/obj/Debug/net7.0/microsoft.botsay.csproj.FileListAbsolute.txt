@@ -1,0 +1,4 @@
+C:\Users\Nadhir-broken\Documents\Project C#\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadhir-broken\Documents\Project C#\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.AssemblyInfoInputs.cache
+C:\Users\Nadhir-broken\Documents\Project C#\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.AssemblyInfo.cs
+C:\Users\Nadhir-broken\Documents\Project C#\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.csproj.CoreCompileInputs.cache

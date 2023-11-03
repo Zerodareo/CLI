@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "moLy5X5TBiKgPbLxdwopO8CzFPLPjgdXZUBio23uTPPNm+FCns6MEa9itqgr0WxXEGSuyJ8rUGfDZdnJEdLlYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadhir-broken\\Documents\\Project C#\\Project C#.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/Talentsoft'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/ThirdParty'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://srv-rd-packages.talentsoft.com/nuget/NuGet%20Gallery'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
