@@ -11,7 +11,7 @@ class Corrector
 
     static async Task Main(string[] args)
     {
-        // string word = "Bhonchour je shuis Billy";
+        string word = "Bhonchour je shuis Billy";
         string api_key = "3ca2ac433f91d741a0fca452bd0b944da8adbb13";
 
         var HttpClient = new HttpClient();
